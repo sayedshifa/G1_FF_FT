@@ -1,5 +1,0 @@
-Java Programming,John Doe
-Data Structures,Alice Smith
-Operating Systems,Bob Johnson
-Computer Networks,Charlie Brown
-Discrete Math,Jane Parker
